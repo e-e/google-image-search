@@ -22,9 +22,8 @@ In your app require the module
 Within your code call the module with the following parameters
 
 1. Search Term
-2. Callback function (will be called once results are ready)
-3. ID number of result you want to offset from
-4. Number of results you want (between 1-10 inclusive)
+2. ID number of result you want to offset from
+3. Number of results you want (between 1-10 inclusive)
 
 ## Example
 
