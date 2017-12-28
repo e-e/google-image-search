@@ -1,28 +1,23 @@
 {
-  "name": "node-google-image-search",
+  "name": "node-google-image-search-promise",
   "version": "1.0.3",
-  "description": "A Node module to search for images using Google",
+  "description":
+    "A Node module to search for images using Google, using promises",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jjmax75/google-image-search.git"
+    "url": "git+https://github.com/e-e/google-image-search-promise.git"
   },
-  "keywords": [
-    "Google Images",
-    "Google",
-    "CSE",
-    "Node",
-    "Javascript"
-  ],
-  "author": "Sean Behan <behanj@gmail.com> (http://boxitoff.com)",
+  "keywords": ["Google Images", "Google", "CSE", "Node", "Javascript"],
+  "author": "Eric Ellingson <ellingsonster@gmail.com> (http://eric.wtf)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jjmax75/google-image-search/issues"
+    "url": "https://github.com/e-e/google-image-search-promise/issues"
   },
-  "homepage": "https://github.com/jjmax75/google-image-search#readme",
+  "homepage": "https://github.com/e-e/google-image-search-promise#readme",
   "engines": {
     "node": "4.3.1"
   },
@@ -37,6 +32,10 @@
     {
       "name": "Ryan Jared Mete",
       "url": "https://github.com/ryanmete"
+    },
+    {
+      "name": "Eric Ellingson",
+      "url": "https://github.com/e-e"
     }
   ]
 }
