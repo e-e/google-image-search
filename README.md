@@ -43,3 +43,6 @@ imageSearch('<search-term>', 0, 5)
 
 Maximum number of results from Google CSE is 100, this app will return up to 10 at a time.
 So, if offset + number of results wanted > 100 then nothing will be returned
+
+This is a fork of [https://github.com/jjmax75/google-image-search](https://github.com/jjmax75/google-image-search), which uses
+callbacks instead of promises.
