@@ -1,8 +1,7 @@
 {
   "name": "node-google-image-search-promise",
-  "version": "1.0.5",
-  "description":
-    "A Node module to search for images using Google, using promises",
+  "version": "1.0.6",
+  "description": "A Node module to search for images using Google, using promises",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -11,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/e-e/google-image-search-promise.git"
   },
-  "keywords": ["Google Images", "Google", "CSE", "Node", "Javascript"],
+  "keywords": [
+    "Google Images",
+    "Google",
+    "CSE",
+    "Node",
+    "Javascript"
+  ],
   "author": "Eric Ellingson <ellingsonster@gmail.com> (http://eric.wtf)",
   "license": "MIT",
   "bugs": {
