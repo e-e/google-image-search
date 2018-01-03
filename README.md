@@ -30,7 +30,7 @@ Within your code call the module with the following parameters
 _index.js of main app_
 
 ```
-var imageSearch = require('node-google-image-search');
+var imageSearch = require('node-google-image-search-promise');
 
 imageSearch('<search-term>', 0, 5)
   .then(results => {
